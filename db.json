@@ -1,0 +1,49 @@
+{
+  "user":[
+    {
+      "id": 1,
+      "name": "sumit",
+      "email": "sumit@gmail.com",
+      "phone": "9891554993",
+      "city": "FBD",
+      "country": "India",
+      "imgSrc":"https://i.ytimg.com/vi/1oU_YGhT7ck/hq720.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Aman",
+      "email": "aman@gmail.com",
+      "phone": "9891554993",
+      "city": "FBD",
+      "country": "India",
+      "imgSrc":"https://i.ytimg.com/vi/1oU_YGhT7ck/hq720.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kartik",
+      "email": "kartik@gmail.com",
+      "phone": "9891554993",
+      "city": "FBD",
+      "country": "India",
+      "imgSrc":"https://i.ytimg.com/vi/1oU_YGhT7ck/hq720.jpg"
+    },
+    {
+      "id": 4,
+      "name": "bhanu",
+      "email": "bhanu@gmail.com",
+      "phone": "9891554993",
+      "city": "FBD",
+      "country": "India",
+      "imgSrc":"https://i.ytimg.com/vi/1oU_YGhT7ck/hq720.jpg"
+    },
+    {
+      "id": 1,
+      "name": "sahil",
+      "email": "sahil@gmail.com",
+      "phone": "9891554993",
+      "city": "FBD",
+      "country": "India",
+      "imgSrc":"https://i.ytimg.com/vi/1oU_YGhT7ck/hq720.jpg"
+    }
+  ]
+}
